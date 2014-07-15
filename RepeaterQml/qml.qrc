@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gradientqml.qml</file>
+        <file>tableViewDemo.qml</file>
+        <file>images/header.png</file>
+        <file>images/selectedrow.png</file>
+        <file>fuck.qml</file>
+        <file>stackUI.qml</file>
+        <file>AndroidDelegate.qml</file>
+        <file>CustomTab.qml</file>
+        <file>mainTabView.qml</file>
+        <file>images/4.png</file>
+        <file>CanvaRectang.qml</file>
+        <file>images/5.png</file>
+    </qresource>
+</RCC>
